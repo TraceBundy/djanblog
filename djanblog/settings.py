@@ -24,7 +24,7 @@ DEBUG = False
 
 TEMPLATE_DEBUG = True
 
-ALLOWED_HOSTS = ['leeeric.com', 'www.leeeric.com']
+ALLOWED_HOSTS = ['hotshell.net', 'www.hotshell.net']
 
 
 # Application definition
